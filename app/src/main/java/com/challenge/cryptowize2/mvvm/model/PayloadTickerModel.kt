@@ -11,5 +11,5 @@ data class PayloadTickerModel(
         val bid: String,
         val created_at: String,
 
-        val change_24: String//??
+        val change_24: String
 )
